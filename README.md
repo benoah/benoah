@@ -28,13 +28,17 @@ I am Devolper who enjoy building web applications,and drink coffea and spend tim
  ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next-dot-js&logoColor=white)
 ![styled components](https://img.shields.io/badge/-Styled--components-DB7093?style=flat&logo=styled-components&logoColor=white) 
 ![PostCSS](https://img.shields.io/badge/-PostCSS-DD3A0A?style=flat&logo=postcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node-dot-js&logoColor=white) 
  ![Express](https://img.shields.io/badge/-Express-black?style=flat&logo=express&logoColor=white)
  ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)
 #
 ###  Tech I want to learn
  ![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat&logo=svelte&logoColor=white) 
  ![Vue.js](https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vue-dot-js&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-4F5B93?style=flat-square&logo=php)
+![Laravel](https://img.shields.io/badge/-Laravel-CCCCCC?style=flat-square&logo=laravel)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-cccccc?style=flat-square&logo=kubernetes)
  #
 #### Contact me
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ben-moussa/)
@@ -42,3 +46,8 @@ I am Devolper who enjoy building web applications,and drink coffea and spend tim
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=benoah&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=benoah)
+
+
+
+
+
