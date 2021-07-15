@@ -1,6 +1,6 @@
 ### Hi there, I'm Ben 👋  
 
-I am Devolper who enjoy building web applications,drink coffea, punshing and spend time with my daughter.
+I am Devolper who enjoy building web applications,drink coffea and spend time with my daughter.
 
 🖼 More about me on my [personal portfolio]()
 
