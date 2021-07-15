@@ -1,5 +1,7 @@
 ### Hi there, I'm Ben 👋    
 #
+![Github Stats](https://github-readme-stats.vercel.app/api?username=benoah&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
+
 I am Devolper who enjoy building web applications,and drink coffea and spend time with my daughter.
 
  🖼 More about me on my [personal portfolio]()
@@ -43,8 +45,6 @@ I am Devolper who enjoy building web applications,and drink coffea and spend tim
 #### Contact me
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ben-moussa/)
 #
-![Github Stats](https://github-readme-stats.vercel.app/api?username=benoah&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
-
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=benoah)
 
 
