@@ -51,7 +51,6 @@ I am Devolper who enjoy building web applications,drink coffea and spend time wi
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-cccccc?style=flat-square&logo=kubernetes)
 #
 ###  Procject 
-
-🖼 [GraphQlGithubRepos](https://github.com/benoah/reactgraphql) - been building a GraphQl project with react.js [[demo]](https://competent-lichterman-7bbdc1.netlify.app/).[[source]](https://github.com/benoah/reactgraphql)
+🖼[GraphQl RepoApp](https://github.com/benoah/reactgraphql) - been building a GraphQl project with react.js [[demo]](https://competent-lichterman-7bbdc1.netlify.app/).[[source]](https://github.com/benoah/reactgraphql)
 
 
