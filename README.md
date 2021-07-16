@@ -1,6 +1,6 @@
 ### Hi there, I'm Ben 👋  
 
-I am Devolper who enjoy building web applications,drink coffea and spend time with my daughter.
+I am Developer who enjoy building web applications,drink coffee and spend time with my daughter.
 
 🖼 More about me on my [personal portfolio]()
 
@@ -56,11 +56,13 @@ I am Devolper who enjoy building web applications,drink coffea and spend time wi
 
 📺 [Movie-app](https://github.com/benoah/movie-app) - been building a Netflix-clone with react.js + axios + movie-trailer.js + react-youtube [[demo]](https://wonderful-sinoussi-ce697d.netlify.app/). [[source]](https://github.com/benoah/movie-app)
 
+👟 [Sneaker-Shop](https://github.com/benoah/sneakershop)  - Shoe e-commerce website. , html, css,  javascript, JWT, Strapi. [[demo]](https://angry-jepsen-a4ad24.netlify.app/shop.html).[[source]](https://github.com/benoah/sneakershop) 
+
 🚀 [Space-X](https://github.com/benoah/updatedV1spaceX) - microsite for SpaceX + html + css + js + api/json [[demo]](https://silly-goldberg-f73ddb.netlify.app/?fbclid=IwAR1xJf5aD--m6pEr465jYHUjqBZ4-z4BMqFGvd8NNb_5dcpKuG26a9NSLno). [[source]](https://github.com/benoah/updatedV1spaceX)
 
-🪒 [Estore-app](https://github.com/benoah/bootstrapapp)- been building a interface for a electrostore with Css Framework[[demo]](https://jolly-newton-465cf8.netlify.app/index.html).[[source]](https://github.com/benoah/bootstrapapp)
+📚 [Blogg-App](https://github.com/benoah/my-blogg) - been building a blogg + html + css + express.js + mongoDB + REACT.JS [[demo]](http://ec2-52-14-110-100.us-east-2.compute.amazonaws.com/article/learn-react?fbclid=IwAR0-EVTLM_VW6q0HLqg3wjBVIyTt1FOXm7NtoFkFKES8J3JfUXa-bQreeHQ). [[source]](https://github.com/benoah/my-blogg)
 
-👟 [Sneaker-Shop](https://github.com/benoah/sneakershop)  - Shoe e-commerce website. , html, css,  javascript, JWT, Strapi. [[demo]](https://angry-jepsen-a4ad24.netlify.app/shop.html).[[source]](https://github.com/benoah/sneakershop) 
+🪒 [Estore-app](https://github.com/benoah/bootstrapapp)- been building a interface for a electrostore with Css Framework[[demo]](https://jolly-newton-465cf8.netlify.app/index.html).[[source]](https://github.com/benoah/bootstrapapp)
 
 🏘 [Airbnb-clone](https://github.com/benoah/airbnb-clone) - Hotel/BnB booking website. react.js + materialcss.[[demo]](https://airbnb-clone-9f7d9.web.app/). [[source]](https://github.com/benoah/airbnb-clone)
 
@@ -70,7 +72,9 @@ I am Devolper who enjoy building web applications,drink coffea and spend time wi
 
 👟 [E-commerce](https://github.com/benoah/ecommerse-store) website  - Build with:html,css(scss),javascript, jwt and Strapi.[Demo](https://ecommerse-store.vercel.app/index.html)[source](https://github.com/benoahecommerse-store)
 #
-### Other  
+### Other 
+🏥 [doctorappointment](https://github.com/benoah/building_interface_in_react-) - been building a todolist for the family, build with js and materializer.css[[demo]](http://localhost:3000/). [[source]](https://github.com/benoah/building_interface_in_react-) 
+
 ❤️ [todolist](https://github.com/benoah/css_framework_2021) - been building a todolist for the family, build with js and materializer.css[[demo]](https://practical-carson-17449a.netlify.app/). [[source]](https://github.com/benoah/css_framework_2021)
 
 📚 [booklist](https://github.com/benoah/js-assignment) - been building a todolist for books i want to read for the family, build with js and materializer.css[[demo]](https://hungry-brown-923e96.netlify.app/). [[source]](https://github.com/benoah/js-assignment)
