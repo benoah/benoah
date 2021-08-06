@@ -37,9 +37,9 @@ I am Developer who enjoy building web applications,drink coffee and spend time w
  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) 
  ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next-dot-js&logoColor=white)
 ![styled components](https://img.shields.io/badge/-Styled--components-DB7093?style=flat&logo=styled-components&logoColor=white) 
-![PostCSS](https://img.shields.io/badge/-PostCSS-DD3A0A?style=flat&logo=postcss&logoColor=white)
  ![Express](https://img.shields.io/badge/-Express-black?style=flat&logo=express&logoColor=white)
  ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)
+ ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 #
 ###  Tech I want to learn
  ![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat&logo=svelte&logoColor=white) 
