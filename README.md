@@ -2,7 +2,8 @@
 
 I am a developer who enjoy building web applications,drink coffee and spend time with my daughter.
 
-🖼 More about me on my [personal portfolio]()
+🖼 More about me on my [personal portfolio](https://ben-developer-portofolio.netlify.app/)
+
 
 
  #
