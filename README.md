@@ -55,7 +55,7 @@ I am a developer who enjoy building web applications,drink coffee and spend time
 ###  Procject 
 
 
-📺 [Movie-app](https://github.com/benoah/movie.git) - My Movie App: A Netflix-Inspired Movie Browser with React and Tailwind CSS [[demo]](https://cosmic-buttercream-90cc24.netlify.app/). [[source]](https://cosmic-buttercream-90cc24.netlify.app/)
+📺 [Movie-app](https://github.com/benoah/movie.git) - My Movie App: A Netflix-Inspired Movie Browser with React and Tailwind CSS [[demo]](https://cosmic-buttercream-90cc24.netlify.app/). [[source]](https://github.com/benoah/movie)
 
 🌐[GraphQl RepoApp](https://github.com/benoah/reactgraphql) - been building a GraphQl project with react.js [[demo]](https://competent-lichterman-7bbdc1.netlify.app/).[[source]](https://github.com/benoah/reactgraphql)
 
