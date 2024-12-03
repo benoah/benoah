@@ -1,13 +1,15 @@
-### Hi there, I'm Ben 👋  
+### Hi there, I’m Ben 👋
 
-I am a developer who enjoy building web applications,drink coffee and spend time with my daughter.
+I am an experienced developer with a passion for building user-friendly and efficient web applications. I enjoy creating scalable solutions from concept to launch, focusing on modern technologies and agile methodologies. When I’m not coding, I love drinking coffee and spending time with my daughter.
 
-🖼 More about me on my [personal portfolio](https://ben-developer-portofolio.netlify.app/)
+ 🖼 More about me on my [personal portfolio](https://ben-developer-portofolio.netlify.app/)
+
 #
 #### Contact me:
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ben-moussa)  
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=benoah&label=VISITORS&labelColor=%23007ec6&countColor=%23000000&style=flat-square)
  #
+
 #### Front-end:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -36,6 +38,7 @@ I am a developer who enjoy building web applications,drink coffee and spend time
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![REST API](https://img.shields.io/badge/-REST%20API-000000?style=flat-square&logo=postman&logoColor=FF6C37)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![image](https://github.com/user-attachments/assets/2ef94e16-f822-4b0d-8a4d-e08dc806b170)
 #
 #### Servers:
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
@@ -85,6 +88,53 @@ chart.js + leaflet + numeral.js + react-chartjs-2 + react-leaflet [[demo]](https
 📚 [booklist](https://github.com/benoah/js-assignment) - been building a todolist for books i want to read for the family, build with js and materializer.css[[demo]](https://hungry-brown-923e96.netlify.app/). [[source]](https://github.com/benoah/js-assignment)
 
 
+### About Me
+
+Experienced developer with a passion for building user-friendly and efficient web applications. I deliver scalable solutions from concept to launch, focusing on modern technologies and agile methodologies.
+
+Technical Expertise:
+	•	Front-end: JavaScript, TypeScript, React, Next.js, Material UI, Mantine UI
+	•	Back-end: Node.js, Express.js
+	•	Cloud: Firebase, Google Cloud Platform
+	•	Methodologies: Agile, Jira, OKR
+
+Results:
+	•	Increased conversion and user engagement through optimized user experience and performance.
+	•	Built scalable applications that handle high traffic and growth.
+	•	Collaborated effectively with cross-functional teams to deliver innovative solutions.
+
+### Ready for New Challenges!
+
+Motivated, solution-oriented, and self-driven developer with international experience from Amsterdam and UC Berkeley. Seeking opportunities where I can use my skills to create value for users and businesses.
+
+Keywords: JavaScript, TypeScript, React, Next.js, Node.js, Firebase, Google Cloud Platform, UX/UI, Full-stack Developer, Front-end Developer, Cloud Development, Agile Development
+
+### Experience
+
+Frontend Developer and Web Manager
+Tempo Sports Group · Freelance
+Jan 2021 - Present · 4 years
+Oslo, Norway
+	•	Led the development and maintenance of the company’s primary online presence.
+	•	Developed a new, efficient landing page with Next.js to improve user experience, increase website traffic, and strengthen brand presence.
+	•	Utilized design skills and experience with Webflow CMS to create a visually appealing and functional landing page reflecting the brand’s identity.
+	•	Developed and implemented strategic social media marketing plans based on thorough analysis and insights into target audience behavior.
+	•	Achieved significant increases in followers, engagement, and brand awareness through targeted actions and continuous optimization.
+
+Full Stack Developer
+Let’s dobee.it!
+Mar 2023 - Aug 2024 · 1 year 6 months
+Oslo, Norway · Hybrid
+	•	Played a central role in improving and further developing their web application as a full-stack developer.
+	•	Contributed to increased user-friendliness, functionality, and performance, resulting in measurable improvements in sales performance and user satisfaction.
+	•	Developed intuitive and engaging interfaces with React, Material UI, and Mantine.
+	•	Built interactive components, optimized performance, and ensured responsive design.
+	•	Developed and maintained scalable APIs and backend services with Node.js and Express.js.
+	•	Implemented robust solutions for authentication, authorization, and data processing.
+	•	Leveraged Firebase’s scalable infrastructure, including Cloud Functions, to automate tasks, extend backend functionality, and ensure optimal performance and availability of the web application.
+	•	Implemented automated tests with Cypress and resolved bugs with TypeScript.
+	•	Collaborated closely with designers, product managers, and developers to create seamless user experiences and ensure rapid problem-solving.
+	•	Utilized Kanban methodology to optimize workflow, prioritize tasks, and deliver value quickly and efficiently to users.
 
 
 
