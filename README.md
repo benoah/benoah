@@ -24,7 +24,7 @@ I am a developer who enjoy building web applications,drink coffee and spend time
 ![JSON](https://img.shields.io/badge/-JSON-black?style=flat&logo=json&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white) 
 ![Scss](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white)
-https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white****
+![Gatsby](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white)
 #
 #### Backend:
 ![Nodejs](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
