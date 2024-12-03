@@ -25,8 +25,15 @@ I am a developer who enjoy building web applications,drink coffee and spend time
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![Mantine](https://img.shields.io/badge/-Mantine-3498DB?style=flat-square&logo=mantine&logoColor=white)
 ![Gatsby](https://img.shields.io/badge/-Gatsby-663399?style=flat-square&logo=gatsby&logoColor=white)
-![JSON](https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=json&logoColor=white)
+![Styled Components](https://img.shields.io/badge/-Styled%20Components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
 ![Vis.js](https://img.shields.io/badge/-Vis.js-FFA500?style=flat-square&logo=vis.js&logoColor=black)
+![JSON](https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=json&logoColor=white)
+![React Slick](https://img.shields.io/badge/-React%20Slick-0099FF?style=flat-square&logo=react&logoColor=white)
+![Lodash](https://img.shields.io/badge/-Lodash-3492FF?style=flat-square&logo=lodash&logoColor=white)
+![React Router](https://img.shields.io/badge/-React%20Router-CA4245?style=flat-square&logo=react-router&logoColor=white)
+![React Icons](https://img.shields.io/badge/-React%20Icons-EF4036?style=flat-square&logo=react&logoColor=white)
+![React Player](https://img.shields.io/badge/-React%20Player-0055FF?style=flat-square&logo=react&logoColor=white)
 #
 #### Backend:
 ![Nodejs](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
