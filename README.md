@@ -6,7 +6,7 @@ I am a developer who enjoy building web applications,drink coffee and spend time
 #
 #### Contact me:
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ben-moussa)  
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=benoah)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=benoah&label=VISITORS&labelColor=%23007ec6&countColor=%23000000&style=flat-square)
  #
 #### Front-end:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
