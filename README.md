@@ -75,13 +75,7 @@ chart.js + leaflet + numeral.js + react-chartjs-2 + react-leaflet [[demo]](https
 
 🏘 [Airbnb-clone](https://github.com/benoah/airbnb-clone) - Hotel/BnB booking website. react.js + materialcss.[[demo]](https://airbnb-clone-9f7d9.web.app/). [[source]](https://github.com/benoah/airbnb-clone)
 
- 🏘 [CssFramework](https://github.com/benoah/css_framework_2021) - website Ricky and Morty fan page build on bootstrao + js ,[[demo]](https://optimistic-ramanujan-fbe3f8.netlify.app/). [[source]](hhttps://github.com/benoah/css_framework_2021)
-
-🔥 [CssFramework](https://github.com/benoah/css_framework_2021) - website Ricky and Morty fan page build on bootstrao + js ,[[demo]](https://optimistic-ramanujan-fbe3f8.netlify.app/). [[source]](hhttps://github.com/benoah/css_framework_2021)
-
-👟 
-
-🎭 
+🏘 🔥👟 🎭 
 #
 ### Other 
 🏥 [doctorappointment](https://github.com/benoah/building_interface_in_react-) - been building a interface for animald-doctor with react.js[[demo]](http://localhost:3000/). [[source]](https://github.com/benoah/building_interface_in_react-) 
