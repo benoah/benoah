@@ -11,8 +11,8 @@ I am a developer who enjoy building web applications,drink coffee and spend time
 
 #### Contact me:
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=benoah)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ben-moussa)  
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=benoah)
  #
 
 #### Front-end:
