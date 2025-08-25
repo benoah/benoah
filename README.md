@@ -44,7 +44,7 @@ Currently seeking new opportunities in Oslo (open to remote).
 
 **Tech:** React, TypeScript, Node.js, Firebase  
 **Impact:** Serving 10,000+ daily active users  
-[Live Demo](link) | [Case Study](link)
+[Live Demo](https://lets.dobee.it/) |
 
 Key features:
 
@@ -57,7 +57,7 @@ Key features:
 
 **Tech:** Next.js, React, Strapi CMS  
 **Impact:** 200% increase in organic traffic  
-[Live Site](link) | [Source Code](link)
+[Live Site](link)
 
 Key achievements:
 
