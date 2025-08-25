@@ -68,7 +68,7 @@ Key achievements:
 ### 🎬 Netflix Clone - Full Stack
 
 **Tech:** React, Node.js, MongoDB, JWT Auth  
-[Demo](https://eloquent-sprite-8eec84.netlify.app/) | [Source](https://app.netlify.com/projects/eloquent-sprite-8eec84/configuration/general)
+[Demo](https://eloquent-sprite-8eec84.netlify.app/) | [Source](https://github.com/benoah/movie-app)
 
 Features:
 
@@ -82,9 +82,9 @@ Features:
 <details>
 <summary>View All Projects</summary>
 
+- 📱 \*\*[COVID-19 Tracker][Demo](https://naughty-tesla-7cab4f.netlify.app/) | [Source](https://github.com/benoah/covid-19-tracker)
+- 🚀 \*\*[SpaceX Tracker] [Demo](https://soacex.netlify.app/) | [Source](https://github.com/benoah/covid-19-tracker)
 - 🛍️ **[Sneaker Shop](https://github.com/benoah/sneaker-shop)** - E-commerce with Strapi & JWT
-- 🚀 **[SpaceX Tracker](https://github.com/benoah/spacex)** - Real-time launch data
-- 📱 **[COVID-19 Tracker](https://github.com/benoah/covid-tracker)** - Live statistics with Chart.js
 - 🏨 **[Airbnb Clone](https://github.com/benoah/airbnb-clone)** - Booking platform with React
 
 </details>
