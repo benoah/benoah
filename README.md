@@ -57,7 +57,7 @@ Key features:
 
 **Tech:** Next.js, React, Strapi CMS  
 **Impact:** 200% increase in organic traffic  
-[Live Site](link)
+[Live Site](https://tempogroup.no/)
 
 Key achievements:
 
