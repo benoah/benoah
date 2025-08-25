@@ -68,7 +68,7 @@ Key achievements:
 ### 🎬 Netflix Clone - Full Stack
 
 **Tech:** React, Node.js, MongoDB, JWT Auth  
-[Demo](https://eloquent-sprite-8eec84.netlify.app/) | [Source](https://github.com/benoah/netflixclone)
+[Demo](https://eloquent-sprite-8eec84.netlify.app/) | [Source](https://app.netlify.com/projects/eloquent-sprite-8eec84/configuration/general)
 
 Features:
 
